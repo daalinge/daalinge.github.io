@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0a3514"],{"0251":function(e,n,c){"use strict";c.r(n);var t,a,l={created(){let e="https://daalinge.gitee.io/kuxmusic_pc.com";window.location.replace(e)}},o=l,i=c("2877"),u=Object(i["a"])(o,t,a,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0a3514.1938c20a.js.map
